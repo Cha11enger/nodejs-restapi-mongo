@@ -2,7 +2,7 @@
   "name": "nodejs-restapi-mongo",
   "version": "1.0.0",
   "description": "Example Project on how to build and develop REST API with NodeJS and MongoDB",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "dev": "nodemon ./server.js localhost 3081",
     "test": "echo \"Error: no test specified\" && exit 1"
